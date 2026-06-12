@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Haojie Zhang (张皓杰)
+# 👋 Hi there, I'm Haojie Zhang (张浩杰)
 
 <p align="center">
   <a href="https://github.com/HaojieZhang917">
